@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(119, 76, 92);
+}
+
+h1{
+    text-align: center;
+}
+label{
+    display:block;
+    font-size:2rem;
+    font-weight:bold;
+    text-align:center;
+}
+#dob,#lucky-number{
+        height:40px;
+        width:200px;
+        margin-top:1rem;
+        margin-bottom:2rem;
+        margin-left: 45%;
+        font-size:1rem ;
+        text-align: center;
+        border-radius: 0.5rem;
+        background-color:rgb(228, 196, 221);
+}
+.conatiner{
+    margin:auto;
+}
+#check-number{
+    padding:0.5rem;
+    height: 50px;
+    width:max-content;
+    margin-top:6rem;
+    background: rgb(41, 13, 23);
+    border:none;
+    border:0in;
+    color:rgb(231, 216, 216);
+    padding:0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size:large;
+    cursor:pointer;
+    outline:#fff;
+    margin:auto;
+    display:block;
+    margin-bottom:3rem;
+}
+p{
+    font-size:1.5rem;
+    font-weight:normal;
+    padding:0rem;
+    text-align: center;
+}
+label{
+    display:block;
+    font-size:2rem;
+    font-weight:bold;
+    text-align:center;
+}
