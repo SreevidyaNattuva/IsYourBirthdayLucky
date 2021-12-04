@@ -1,11 +1,13 @@
 body{
     background-color:rgb(119, 76, 92);
+    text-align: center;
 }
 
 h1{
     text-align: center;
 }
 label{
+    padding:1rem;
     display:block;
     font-size:2rem;
     font-weight:bold;
@@ -14,9 +16,11 @@ label{
 #dob,#lucky-number{
         height:40px;
         width:200px;
-        margin-top:1rem;
+        /* margin-top:1rem;
         margin-bottom:2rem;
-        margin-left: 45%;
+        margin-left: 45%; */
+        margin:auto;
+        margin-bottom: 3rem;
         font-size:1rem ;
         text-align: center;
         border-radius: 0.5rem;
