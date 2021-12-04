@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(119, 76, 92);
+    background-color:rgb(172, 138, 150);
     text-align: center;
 }
 
@@ -24,7 +24,7 @@ label{
         font-size:1rem ;
         text-align: center;
         border-radius: 0.5rem;
-        background-color:rgb(228, 196, 221);
+        background-color:rgb(184, 175, 181);
 }
 .conatiner{
     margin:auto;
@@ -34,7 +34,7 @@ label{
     height: 50px;
     width:max-content;
     margin-top:6rem;
-    background: rgb(41, 13, 23);
+    background: rgb(109, 56, 75);
     border:none;
     border:0in;
     color:rgb(231, 216, 216);
