@@ -1,0 +1,1 @@
+This app takes your birthday as input and shows if it is lucky. HTML, CSS, JS are used to design this app.
